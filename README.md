@@ -31,6 +31,17 @@ Open the deployed application: **[AbroadWise Web App](PASTE_YOUR_STREAMLIT_URL_H
 3. Run the application:
 
    `streamlit run app_v3.py`
+   ## Application Screenshots
+
+### Home Page
+![AbroadWise Home Page](home.png)
+
+### University Comparison
+![University Comparison](comparison.png)
+
+### Cost Charts and Report
+![Cost Charts](charts.png)
+
 
 ## Project Purpose
 This project was created to explore Python programming, data handling, data visualization, and web application development through a practical student-focused use case.
