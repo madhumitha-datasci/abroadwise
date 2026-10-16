@@ -1,0 +1,90 @@
+Country,University,Programme,Field,Currency,Year,Duration_Years,Tuition_Type,Tuition_Amount,Living_Cost_Per_Year,Visa_Fee,Application_Fee,Source
+Germany,University of Tuebingen,Master's program,Data Science,EUR,2026,2,Per Year,3000,11364,75,75,University of Tuebingen
+Germany,Leuphana University,Master's program,Data Science,EUR,2026,2,Per Year,0,12000,75,75,Leuphana University
+Germany,University of Ulm,Master's program,Data Science,EUR,2026,2,Per Year,3000,12000,75,75,University of Ulm
+Germany,Technical University of Munich,Data Engineering and Analytics MSc,Data Science,EUR,2026,2,Per Year,12000,18000,75,75,Technical University of Munich
+Germany,RWTH Aachen University,Master's program,Data Science,EUR,2026,2,Per Year,0,12000,75,75,RWTH Aachen University
+
+UK,UCL,Data Science MSc,Data Science,GBP,2026,1,Per Year,46700,20000,558,0,UCL official 2026-2027 international tuition
+UK,King's College London,Data Science MSc,Data Science,GBP,2026,1,Per Year,40450,20000,558,0,King's College London official 2026-2027 international tuition
+UK,University of York,MSc Data Science,Data Science,GBP,2026,1,Per Year,32900,15000,558,0,University of York official 2026-2027 international tuition
+UK,University of Bath,MSc Data Science,Data Science,GBP,2026,1,Per Year,34550,16000,558,0,University of Bath published international tuition
+UK,University of Manchester,MSc Data Science (Computer Science Data Informatics),Data Science,GBP,2026,1,Per Year,35200,15000,558,0,University of Manchester official 2026 international tuition
+
+USA,New York University,MS in Data Science,Data Science,USD,2026,2,Per Year,40000,30000,185,0,Tuition and living costs are planning estimates; verify NYU program-specific tuition
+USA,Columbia University,MS in Data Science,Data Science,USD,2026,1.5,Per Year,56440,35000,185,85,Tuition annualized from 30 credits at estimated 2026-2027 rate; Columbia official application fee
+USA,Northeastern University,MS in Data Science,Data Science,USD,2026,2,Per Year,30752,25000,185,0,Estimated annual tuition based on published 2026-2027 total tuition; verify campus and fees
+USA,University of California Berkeley,Master of Information and Data Science (MIDS),Data Science,USD,2026,2,Per Year,41113,0,0,0,Online program; estimated annualized cost from official 2026 tuition and fees; no overseas living or student visa assumed
+USA,University of Washington,MS in Data Science,Data Science,USD,2026,1.5,Per Year,37328,25000,185,0,Tuition estimate based on 2025-2026 rate plus 5 percent; verify final 2026-2027 rate
+
+Canada,University of British Columbia,Master of Data Science,Data Science,CAD,2026,1,Per Year,59767.92,30000,150,168.25,University of British Columbia
+Canada,University of Toronto,Master of Data Science,Data Science,CAD,2026,1,Per Year,75000,30000,150,135,University of Toronto
+Canada,University of Waterloo,Master of Data Science and Artificial Intelligence,Data Science,CAD,2026,1.5,Per Year,55890,25000,150,125,University of Waterloo
+Canada,McGill University,Master of Management in Analytics,Data Science,CAD,2026,1,Per Year,60000,25000,150,136,McGill University
+Canada,Simon Fraser University,Master of Science in Big Data,Data Science,CAD,2026,1.5,Total Programme,55424.64,25000,150,125,Simon Fraser University
+
+Australia,Monash University,Master of Data Science,Data Science,AUD,2026,2,Per Year,37500,30000,2500,125,Monash University
+Australia,University of Melbourne,Master of Data Science,Data Science,AUD,2026,2,Per Year,57984,30000,2500,154,University of Melbourne
+Australia,University of Queensland,Master of Data Science,Data Science,AUD,2026,2,Per Year,58056,30000,2500,125,University of Queensland
+Australia,UNSW Sydney,Master of Data Science and Decisions,Data Science,AUD,2026,2,Per Year,58500,30000,2500,150,UNSW Sydney
+Australia,University of Sydney,Master of Data Science,Data Science,AUD,2026,1.5,Per Year,57900,30000,2500,150,University of Sydney
+
+New Zealand,University of Auckland,Master of Data Science,Data Science,NZD,2026,1,Per Year,55350,25000,850,0,University of Auckland official 2026 estimated international tuition
+New Zealand,University of Canterbury,Master of Applied Data Science,Data Science,NZD,2026,1.5,Per Year,45304,22000,850,0,University of Canterbury 2026 postgraduate science fee benchmark
+New Zealand,Victoria University of Wellington,Master of Data Science,Data Science,NZD,2026,1.5,Per Year,45432,24000,850,0,Victoria University of Wellington 2026 postgraduate science fee benchmark
+New Zealand,University of Otago,Master of Science in Data Science,Data Science,NZD,2026,1.5,Per Year,48733,22000,850,0,University of Otago 2026 coursework Data Science fee benchmark
+New Zealand,Massey University,Master of Science in Data Science,Data Science,NZD,2026,1,Per Year,39840,20000,850,0,Massey University 2026 international science fee benchmark
+
+Ireland,University of Galway,Computer Science MSc - Data Analytics,Data Science,EUR,2026,1,Per Year,28500,12000,60,0,University of Galway 2026-2027 tuition benchmark
+Ireland,Trinity College Dublin,Computer Science MSc - Data Science,Data Science,EUR,2026,1,Per Year,27000,18000,60,55,Trinity College Dublin tuition estimate; verify exact fee
+Ireland,University College Dublin,MSc Data and Computational Science,Data Science,EUR,2026,1.5,Per Year,29500,18000,60,70,UCD tuition estimate; verify exact programme fee
+Ireland,Dublin City University,MSc Computing - Data Analytics,Data Science,EUR,2026,1,Per Year,25000,15000,60,50,DCU tuition estimate; verify exact programme fee
+Ireland,University College Cork,Data Science and Analytics MSc,Data Science,EUR,2026,1,Per Year,28000,12000,60,50,UCC 2026-2027 non-EU tuition
+
+Netherlands,Maastricht University,Data Science for Decision Making,Data Science,EUR,2026,2,Per Year,25100,15000,243,100,Maastricht University 2026-2027 published tuition
+Netherlands,Utrecht University,Data Science MSc,Data Science,EUR,2026,2,Per Year,25306,15000,243,100,Utrecht University 2026-2027 published tuition
+Netherlands,TU Delft,MSc Computer Science,Data Science,EUR,2026,2,Per Year,25633,16800,243,100,TU Delft 2026-2027 master's fee benchmark
+Netherlands,University of Amsterdam,MSc Computer Science,Data Science,EUR,2026,2,Per Year,25900,16800,243,100,University of Amsterdam 2025-2026 science master's fee benchmark; verify 2026 fee
+Netherlands,Eindhoven University of Technology,Data Science and Artificial Intelligence MSc,Data Science,EUR,2026,2,Per Year,20000,16800,243,100,Eindhoven University of Technology tuition estimate; verify 2026 non-EU fee
+
+France,Sorbonne University,Master in Data Science,Data Science,EUR,2026,2,Per Year,255,12000,99,0,Sorbonne University 2026-2027 national master fee
+France,Paris-Saclay University,Master in Data Science,Data Science,EUR,2026,2,Per Year,255,12000,99,0,Paris-Saclay 2026-2027 national master fee subject to eligibility
+France,PSL University,Master in Data Science,Data Science,EUR,2026,2,Per Year,19500,15000,99,0,PSL 2026-2027 non-EU fee benchmark; verify exact programme
+France,University of Paris Cite,Master in Data Science,Data Science,EUR,2026,2,Per Year,3950,12000,99,0,Estimated differentiated master fee; verify programme exemption
+France,University Grenoble Alpes,Master in Data Science,Data Science,EUR,2026,2,Per Year,3950,12000,99,0,2026-2027 tuition not yet confirmed; estimate only
+
+Italy,University of Bologna,Master's Degree in Data Science,Data Science,EUR,2026,2,Per Year,3000,12000,116,0,University of Bologna tuition estimate; verify exact programme fee
+Italy,University of Padua,Master's Degree in Data Science,Data Science,EUR,2026,2,Per Year,2990,12000,116,0,University of Padua 2026-2027 scientific programme fee benchmark
+Italy,University of Milan,Master's Degree in Data Science,Data Science,EUR,2026,2,Per Year,4291.12,12000,116,0,University of Milan 2026-2027 fee estimate; depends on country group and programme
+Italy,Politecnico di Milano,Master of Science in Data Science and Engineering,Data Science,EUR,2026,2,Per Year,3943.04,15000,116,0,Politecnico di Milano maximum tuition benchmark; additional charges may apply
+Italy,Sapienza University of Rome,Master's Degree in Data Science,Data Science,EUR,2026,2,Per Year,1500,12000,116,30,Sapienza 2026-2027 international tuition benchmark and pre-selection fee
+
+Sweden,KTH Royal Institute of Technology,MSc Biostatistics and Data Science,Data Science,SEK,2026,2,Per Year,180000,150000,1500,900,KTH official total tuition SEK 360000
+Sweden,Lund University,MSc in Machine Learning,Data Science,SEK,2026,2,Per Year,135000,150000,1500,900,Lund University tuition estimate; verify exact programme
+Sweden,Uppsala University,Master's Programme in Statistics and Data Science,Data Science,SEK,2026,2,Per Year,138000,150000,1500,900,Uppsala University official total tuition SEK 276000
+Sweden,Chalmers University of Technology,MSc Mathematics Statistics and Data Science,Data Science,SEK,2026,2,Per Year,160000,150000,1500,900,Chalmers official total tuition SEK 320000
+Sweden,Stockholm University,Master's Programme in Data Science,Data Science,SEK,2026,2,Per Year,140000,150000,1500,900,Stockholm University tuition estimate; verify exact programme
+
+Denmark,Technical University of Denmark,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,15000,14000,410.19,100,Technical University of Denmark
+Denmark,University of Copenhagen,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,17300,18000,410.19,150,University of Copenhagen
+Denmark,Aarhus University,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,17300,14000,410.19,150,Aarhus University
+Denmark,Aalborg University,Master in Business Data Science,Data Science,EUR,2026,2,Per Year,7450,12000,410.19,150,Aalborg University
+Denmark,University of Southern Denmark,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,17300,12000,410.19,150,University of Southern Denmark
+
+Finland,Aalto University,Master of Science in Machine Learning Data Science and Artificial Intelligence,Data Science,EUR,2026,2,Per Year,17000,12000,750,100,Aalto University official programme fee
+Finland,University of Helsinki,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,15000,12000,750,100,University of Helsinki official programme fee
+Finland,University of Turku,Master of Science in Data Science,Data Science,EUR,2026,2,Per Year,12000,12000,750,100,University of Turku tuition estimate
+Finland,Tampere University,Master of Science in Data Science Computing Sciences and Electrical Engineering,Data Science,EUR,2026,2,Per Year,12000,12000,750,100,Tampere University official programme fee
+Finland,University of Oulu,Master of Science in Computer Science and Engineering,Data Science,EUR,2026,2,Per Year,10000,12000,750,100,University of Oulu related programme fee
+
+Japan,University of Tokyo,Master's Program in Data Science,Data Science,JPY,2026,2,Per Year,535800,1800000,0,30000,University of Tokyo standard graduate fee benchmark
+Japan,Kyoto University,Master's Program in Data Science,Data Science,JPY,2026,2,Per Year,535800,1500000,0,30000,Kyoto University official graduate fee benchmark
+Japan,Osaka University,Master's Program in Data Science,Data Science,JPY,2026,2,Per Year,535800,1500000,0,30000,Osaka University official graduate fee benchmark
+Japan,Tohoku University,Master's Program in Data Science,Data Science,JPY,2026,2,Per Year,535800,1400000,0,30000,Tohoku University official graduate fee benchmark
+Japan,Tokyo Institute of Technology,Master's Program in Data Science,Data Science,JPY,2026,2,Per Year,635400,1800000,0,30000,Science Tokyo graduate fee benchmark; former Tokyo Institute of Technology
+
+South Korea,Seoul National University,Master's Program in Data Science,Data Science,KRW,2026,2,Per Year,7656000,18000000,0,90000,Seoul National University estimated graduate engineering tuition
+South Korea,KAIST,Master's Program in Data Science,Data Science,KRW,2026,2,Per Year,19118000,18000000,0,80000,KAIST graduate tuition benchmark before scholarships
+South Korea,Yonsei University,Master's Program in Data Science,Data Science,KRW,2026,2,Per Year,12008000,20000000,0,100000,Yonsei University estimated graduate engineering tuition
+South Korea,Korea University,Master's Program in Data Science,Data Science,KRW,2026,2,Per Year,14000000,20000000,0,120000,Korea University tuition estimate
+South Korea,Sungkyunkwan University,Master's Program in Data Science,Data Science,KRW,2026,2,Per Year,13980000,18000000,0,150000,Sungkyunkwan University engineering tuition benchmark
